@@ -23,7 +23,7 @@ The creation of MultiSig wallets follows "m-of-n" rules, where only after the m 
 Get the source code of MultiSig wallet contract by command:
 
 ```
-$ git clone 
+$ git clone https://github.com/BSN-Spartan/Multisig-Wallet-Contracts.git
 ```
 
 For beginners, the contracts in this application can be deployed by the steps in [Spartan Quick Testing](https://www.spartan.bsn.foundation/main/quick-testing#step1).
